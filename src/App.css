@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  padding: 24px;
+}
+
+.inventory-table {
+  border-collapse: collapse;
+  margin: 24px auto;
+}
+
+.inventory-table th,
+.inventory-table td {
+  border: 1px solid #555;
+  padding: 10px 16px;
+  text-align: center;
 }
 
 .App-logo {
